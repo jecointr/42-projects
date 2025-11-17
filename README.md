@@ -3,6 +3,8 @@
 This repository is a central index of all my projects completed at **School 42**.  
 Each project has its own repository and can be explored individually.
 
+> **Note:** Within each category, projects are listed roughly from the **simplest/quickest** to the **most complex/longest** to complete.
+
 ---
 
 ## Algo, AI & Data
