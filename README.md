@@ -35,7 +35,7 @@ Each project has its own repository and can be explored individually.
 
 ## System & Kernel
 
-- [Libasm](https://github.com/<orga>/libasm)  
+- [libasm](https://github.com/jecointr/libasm)  
   ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue)  
   Reimplement basic C library functions in **Assembly (x86-64, Intel syntax)**.  
   Optional bonus: linked list functions.
