@@ -10,7 +10,6 @@ Each project has its own repository and can be explored individually.
 ## Algo, AI & Data
 
 - [gomoku](https://github.com/jecointr/gomoku)
-- [lem-ipc](https://github.com/jecointr/lem-ipc)
 - [multilayer-perceptron](https://github.com/jecointr/multilayer-perceptron)
 - [total-perspective-vortex](https://github.com/jecointr/total-perspective-vortex)
 - [ft_linear_regression](https://github.com/jecointr/ft-linear-regression)
