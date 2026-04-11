@@ -75,6 +75,12 @@ Each project has its own repository and can be explored individually.
 
 ---
 
+## Other
+
+- [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
+
+---
+
 ## Notes
 
 - Each repository contains a **README with detailed instructions**, compilation steps, and screenshots/GIFs where applicable.  
