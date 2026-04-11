@@ -9,12 +9,8 @@ Each project has its own repository and can be explored individually.
 
 ## Algo, AI & Data
 
-- [dr_quine](https://github.com/jecointr/dr-quine)  
-  ![C](https://img.shields.io/badge/lang-C-555555?logo=c) ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Algorithm](https://img.shields.io/badge/type-Algorithm-orange)  
-  Explore the Kleene recursion theorem by writing self-reproducing programs (Quines) in C and Assembly.
 - [gomoku](https://github.com/jecointr/gomoku)
-- [lem-in](https://github.com/jecointr/lem-in)
-- [ft-linear-regression](https://github.com/jecointr/ft-linear-regression)
+- [lem-ipc](https://github.com/jecointr/lem-ipc)
 - [multilayer-perceptron](https://github.com/jecointr/multilayer-perceptron)
 - [total-perspective-vortex](https://github.com/jecointr/total-perspective-vortex)
   
