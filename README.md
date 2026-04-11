@@ -12,7 +12,11 @@ Each project has its own repository and can be explored individually.
 - [dr_quine](https://github.com/jecointr/dr-quine)  
   ![C](https://img.shields.io/badge/lang-C-555555?logo=c) ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Algorithm](https://img.shields.io/badge/type-Algorithm-orange)  
   Explore the Kleene recursion theorem by writing self-reproducing programs (Quines) in C and Assembly.
-- [dr_quine](https://github.com/jecointr/dr-quine) 
+- [dr_quine](https://github.com/jecointr/gomoku)
+- [dr_quine](https://github.com/jecointr/lem-in)
+- [dr_quine](https://github.com/jecointr/ft-linear-regression)
+- [dr_quine](https://github.com/jecointr/multilayer-perceptron)
+- [dr_quine](https://github.com/jecointr/total-perspective-vortex)
   
 ---
 
