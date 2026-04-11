@@ -12,15 +12,15 @@ Each project has its own repository and can be explored individually.
 - [gomoku](https://github.com/jecointr/gomoku)
 - [multilayer-perceptron](https://github.com/jecointr/multilayer-perceptron)
 - [total-perspective-vortex](https://github.com/jecointr/total-perspective-vortex)
-- [ft_linear_regression](https://github.com/jecointr/ft-linear-regression)
+<!-- - [ft_linear_regression](https://github.com/jecointr/ft-linear-regression) -->
 
 ---
 
 ## Security
 
 - [ft_malcolm](https://github.com/jecointr/ft-malcolm)
-- [dr_quine](https://github.com/jecointr/dr-quine)
-- [tinky-winkey](https://github.com/jecointr/tinky-winkey)
+<!-- - [dr_quine](https://github.com/jecointr/dr-quine)-->
+<!-- - [tinky-winkey](https://github.com/jecointr/tinky-winkey)-->
 
 ---
 
@@ -29,20 +29,21 @@ Each project has its own repository and can be explored individually.
 - [ft_ping](https://github.com/jecointr/ft-ping)
 - [ft_traceroute](https://github.com/jecointr/ft-traceroute)
 - [cloud-1](https://github.com/jecointr/cloud-1)
+- [Inception-of-Things](https://github.com/jecointr/inception-of-things)
 
 ---
 
 ## Web & Mobile
 
-- [ft_hangouts](https://github.com/jecointr/ft-hangouts)
-- [swifty-copmanion](https://github.com/jecointr/swifty-copmanion)
+<!-- - [ft_hangouts](https://github.com/jecointr/ft-hangouts)-->
+<!-- - [swifty-copmanion](https://github.com/jecointr/swifty-copmanion)-->
 - [camagru](https://github.com/jecointr/camagru)
 
 ---
 
 ## System & Kernel
 
-- [libasm](https://github.com/jecointr/libasm)  
+<!-- - [libasm](https://github.com/jecointr/libasm)-->
   ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue)  
   Reimplement basic C library functions in **Assembly (x86-64, Intel syntax)**.
 - [malloc](https://github.com/jecointr/malloc)
@@ -64,6 +65,7 @@ Each project has its own repository and can be explored individually.
 - [ready-set-boole](https://github.com/jecointr/ready-set-boole)
 - [matrix](https://github.com/jecointr/matrix)
 - [ft_ss_md5](https://github.com/jecointr/ft-ssl-md5)
+<!-- - [ft_linear_regression](https://github.com/jecointr/ft-linear-regression) -->
 
 ---
 
