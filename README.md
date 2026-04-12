@@ -26,8 +26,8 @@ Each project has its own repository and can be explored individually.
 
 ## DevOps
 
-- [ft_ping](https://github.com/jecointr/ft-ping)
-- [ft_traceroute](https://github.com/jecointr/ft-traceroute)
+- [ft_ping](https://github.com/jecointr/ft_ping)
+- [ft_traceroute](https://github.com/jecointr/ft_traceroute)
 - [cloud-1](https://github.com/jecointr/cloud-1)
 - [Inception-of-Things](https://github.com/jecointr/inception-of-things)
 
@@ -49,8 +49,8 @@ Each project has its own repository and can be explored individually.
 - [malloc](https://github.com/jecointr/malloc)
 - [lem-ipc](https://github.com/jecointr/lem-ipc)
 - [strace](https://github.com/jecointr/strace)
-- [ft_ping](https://github.com/jecointr/ft-ping)
-- [ft_traceroute](https://github.com/jecointr/ft-traceroute)
+- [ft_ping](https://github.com/jecointr/ft_ping)
+- [ft_traceroute](https://github.com/jecointr/ft_traceroute)
 
 ---
 
