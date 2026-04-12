@@ -38,6 +38,8 @@ Each project has its own repository and can be explored individually.
 <!-- - [ft_hangouts](https://github.com/jecointr/ft-hangouts)-->
 <!-- - [swifty-copmanion](https://github.com/jecointr/swifty-copmanion)-->
 - [camagru](https://github.com/jecointr/camagru)
+- [matcha](https://github.com/jecointr/matcha)
+- [hypertube](https://github.com/jecointr/hypertube)
 
 ---
 
