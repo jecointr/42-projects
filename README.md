@@ -12,7 +12,7 @@ Each project has its own repository and can be explored individually.
 - [gomoku](https://github.com/jecointr/gomoku)
 - [multilayer-perceptron](https://github.com/jecointr/multilayer-perceptron)
 - [total-perspective-vortex](https://github.com/jecointr/total-perspective-vortex)
-<!-- - [ft_linear_regression](https://github.com/jecointr/ft-linear-regression) -->
+- [ft_linear_regression](https://github.com/jecointr/ft-linear-regression)
 
 ---
 
@@ -67,7 +67,7 @@ Each project has its own repository and can be explored individually.
 - [ready-set-boole](https://github.com/jecointr/ready-set-boole)
 - [matrix](https://github.com/jecointr/matrix)
 - [ft_ss_md5](https://github.com/jecointr/ft-ssl-md5)
-<!-- - [ft_linear_regression](https://github.com/jecointr/ft-linear-regression) -->
+- [ft_linear_regression](https://github.com/jecointr/ft-linear-regression)
 
 ---
 
