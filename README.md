@@ -45,10 +45,10 @@ Each project has its own repository and can be explored individually.
 
 ## Web3 & Blockchain
 
-- [tokenizeart](https://github.com/jecointr/tokenizeart)
+- [TokenizeArt](https://github.com/jecointr/tokenizeart)
   ![Solidity](https://img.shields.io/badge/lang-Solidity-363636?logo=solidity) ![NFT](https://img.shields.io/badge/type-ERC--721-yellow)
   Plateforme de tokenisation d'œuvres d'art permettant la création et l'échange de NFTs.
-- [tokenizer](https://github.com/jecointr/tokenizer)
+- [Tokenizer](https://github.com/jecointr/tokenizer)
   ![Solidity](https://img.shields.io/badge/lang-Solidity-363636?logo=solidity) ![Token](https://img.shields.io/badge/type-ERC--20-blue)
   Implémentation d'un standard de token fongible avec logique de déploiement et de minting.
 
