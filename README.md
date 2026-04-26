@@ -53,6 +53,7 @@ Each project has its own repository and can be explored individually.
 - [music-room](https://github.com/jecointr/music-room)
   ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![Flutter](https://img.shields.io/badge/framework-Flutter-02569B?logo=flutter) (soon)
 - [red-tetris](https://github.com/jecointr/red-tetris) (soon)
+- [ft_hangouts](https://github.com/jecointr/ft_hangout) (soon)
 
 ---
 
