@@ -19,7 +19,7 @@ Each project has its own repository and can be explored individually.
   ![Python](https://img.shields.io/badge/lang-Python-3776AB?logo=python) ![Math](https://img.shields.io/badge/type-Math-lightgrey)
 
 ---
-
+<!--
 ## Security
 
 - [ft_malcolm](https://github.com/jecointr/ft_malcolm)
@@ -28,7 +28,7 @@ Each project has its own repository and can be explored individually.
   ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
   
 ---
-
+-->
 ## DevOps
 
 - [ft_ping](https://github.com/jecointr/ft_ping)
@@ -66,8 +66,8 @@ Each project has its own repository and can be explored individually.
 
 ## System & Kernel
 
-- [libasm](https://github.com/jecointr/libasm)
-  ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue)
+<!-- - [libasm](https://github.com/jecointr/libasm)
+  ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue) -->
 - [malloc](https://github.com/jecointr/malloc)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Memory](https://img.shields.io/badge/type-Kernel-green)
 - [lem-ipc](https://github.com/jecointr/lem-ipc)
