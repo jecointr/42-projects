@@ -22,7 +22,7 @@ Each project has its own repository and can be explored individually.
 
 ## Security
 
-- [ft_malcolm](https://github.com/jecointr/ft-malcolm)
+- [ft_malcolm](https://github.com/jecointr/ft_malcolm)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network--Security-red)
 ---
 
