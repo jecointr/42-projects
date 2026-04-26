@@ -24,6 +24,10 @@ Each project has its own repository and can be explored individually.
 
 - [ft_malcolm](https://github.com/jecointr/ft_malcolm)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network--Security-red)
+  
+- [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
+  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
+  
 ---
 
 ## DevOps
@@ -75,18 +79,11 @@ Each project has its own repository and can be explored individually.
 ## Cryptography & Maths
 
 - [ready-set-boole](https://github.com/jecointr/ready-set-boole)
-  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Logic](https://img.shields.io/badge/type-Boolean--Logic-9cf)
+  ![Rust](https://img.shields.io/badge/lang-Rust-dea584?logo=rust) ![Logic](https://img.shields.io/badge/type-Boolean--Logic-9cf)
 - [matrix](https://github.com/jecointr/matrix)
-  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Math](https://img.shields.io/badge/type-Linear--Algebra-blueviolet)
+  ![Rust](https://img.shields.io/badge/lang-Rust-dea584?logo=rust) ![Math](https://img.shields.io/badge/type-Linear--Algebra-blueviolet)
 - [ft_ss_md5](https://github.com/jecointr/ft-ssl-md5)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Crypto](https://img.shields.io/badge/type-Hashing-black)
-
----
-
-## Other
-
-- [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
-  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
 
 ---
 
