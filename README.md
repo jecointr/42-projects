@@ -36,7 +36,7 @@ Each project has its own repository and can be explored individually.
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network-blue)
 - [ft_traceroute](https://github.com/jecointr/ft_traceroute)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network-blue)
-- [cloud-1](https://github.com/jecointr/cloud-1) (add badges)
+- [cloud-1](https://github.com/jecointr/cloud-1)
 - [Inception-of-Things](https://github.com/jecointr/inception-of-things)
   ![K3s](https://img.shields.io/badge/tool-K3s-FFC61C?logo=kubernetes) ![Docker](https://img.shields.io/badge/tool-Docker-2496ED?logo=docker)
 
