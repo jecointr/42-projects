@@ -50,8 +50,8 @@ Each project has its own repository and can be explored individually.
   ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![React](https://img.shields.io/badge/framework-React-61DAFB?logo=react)
 - [hypertube](https://github.com/jecointr/hypertube)
   ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![Streaming](https://img.shields.io/badge/type-Video--Streaming-red)
-- [music-room](https://github.com/jecointr/music-room)
-  ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/framework-React--Native-61DAFB?logo=react)
+- [music-room](https://github.com/jecointr/music-room) (soon)
+  ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/framework-React--Native-61DAFB?logo=react) (soon)
 
 ---
 
@@ -83,8 +83,8 @@ Each project has its own repository and can be explored individually.
   ![Rust](https://img.shields.io/badge/lang-Rust-dea584?logo=rust) ![Logic](https://img.shields.io/badge/type-Boolean--Logic-9cf)
 - [matrix](https://github.com/jecointr/matrix)
   ![Rust](https://img.shields.io/badge/lang-Rust-dea584?logo=rust) ![Math](https://img.shields.io/badge/type-Linear--Algebra-blueviolet)
-- [ft_ss_md5](https://github.com/jecointr/ft-ssl-md5)
-  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Crypto](https://img.shields.io/badge/type-Hashing-black)
+<!-- - [ft_ss_md5](https://github.com/jecointr/ft_ss_md5)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Crypto](https://img.shields.io/badge/type-Hashing-black) -->
 
 ---
 
