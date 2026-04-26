@@ -74,6 +74,8 @@ Each project has its own repository and can be explored individually.
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![IPC](https://img.shields.io/badge/type-Concurrency-lightgrey)
 - [strace](https://github.com/jecointr/strace)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![System](https://img.shields.io/badge/type-Syscalls-orange)
+- [nm](https://github.com/jecointr/nm)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Binary](https://img.shields.io/badge/type-Binary--Analysis-blueviolet)
 
 ---
 
