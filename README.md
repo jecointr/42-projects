@@ -24,7 +24,6 @@ Each project has its own repository and can be explored individually.
 
 - [ft_malcolm](https://github.com/jecointr/ft_malcolm)
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network--Security-red)
-  
 - [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
   ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
   
