@@ -26,6 +26,7 @@ Each project has its own repository and can be explored individually.
   ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network--Security-red)
 - [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
   ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
+- [dr-quine](https://github.com/jecointr/dr-quine)
   
 ---
 -->
