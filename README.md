@@ -10,36 +10,43 @@ Each project has its own repository and can be explored individually.
 ## Algo, AI & Data
 
 - [gomoku](https://github.com/jecointr/gomoku)
+  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![AI](https://img.shields.io/badge/type-AI-red)
 - [multilayer-perceptron](https://github.com/jecointr/multilayer-perceptron)
+  ![Python](https://img.shields.io/badge/lang-Python-3776AB?logo=python) ![ML](https://img.shields.io/badge/type-Machine--Learning-orange)
 - [total-perspective-vortex](https://github.com/jecointr/total-perspective-vortex)
+  ![Python](https://img.shields.io/badge/lang-Python-3776AB?logo=python) ![Data](https://img.shields.io/badge/type-Data--Analysis-yellow)
 - [ft_linear_regression](https://github.com/jecointr/ft_linear_regression)
+  ![Python](https://img.shields.io/badge/lang-Python-3776AB?logo=python) ![Math](https://img.shields.io/badge/type-Math-lightgrey)
 
 ---
 
 ## Security
 
 - [ft_malcolm](https://github.com/jecointr/ft-malcolm)
-<!-- - [dr_quine](https://github.com/jecointr/dr-quine)-->
-<!-- - [tinky-winkey](https://github.com/jecointr/tinky-winkey)-->
-
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network--Security-red)
 ---
 
 ## DevOps
 
 - [ft_ping](https://github.com/jecointr/ft_ping)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network-blue)
 - [ft_traceroute](https://github.com/jecointr/ft_traceroute)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Network](https://img.shields.io/badge/type-Network-blue)
 - [cloud-1](https://github.com/jecointr/cloud-1)
+  ![Terraform](https://img.shields.io/badge/tool-Terraform-623CE4?logo=terraform) ![AWS](https://img.shields.io/badge/cloud-AWS-232F3E?logo=amazon-aws)
 - [Inception-of-Things](https://github.com/jecointr/inception-of-things)
+  ![K3s](https://img.shields.io/badge/tool-K3s-FFC61C?logo=kubernetes) ![Docker](https://img.shields.io/badge/tool-Docker-2496ED?logo=docker)
 
 ---
 
 ## Web & Mobile
 
-<!-- - [ft_hangouts](https://github.com/jecointr/ft-hangouts)-->
-<!-- - [swifty-copmanion](https://github.com/jecointr/swifty-copmanion)-->
 - [camagru](https://github.com/jecointr/camagru)
+  ![PHP](https://img.shields.io/badge/lang-PHP-777BB4?logo=php) ![JS](https://img.shields.io/badge/lang-JavaScript-F7DF1E?logo=javascript)
 - [matcha](https://github.com/jecointr/matcha)
+  ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![React](https://img.shields.io/badge/framework-React-61DAFB?logo=react)
 - [hypertube](https://github.com/jecointr/hypertube)
+  ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![Streaming](https://img.shields.io/badge/type-Video--Streaming-red)
 
 ---
 
@@ -47,50 +54,39 @@ Each project has its own repository and can be explored individually.
 
 - [TokenizeArt](https://github.com/jecointr/tokenizeart)
   ![Solidity](https://img.shields.io/badge/lang-Solidity-363636?logo=solidity) ![NFT](https://img.shields.io/badge/type-ERC--721-yellow)
-  Plateforme de tokenisation d'œuvres d'art permettant la création et l'échange de NFTs.
 - [Tokenizer](https://github.com/jecointr/tokenizer)
   ![Solidity](https://img.shields.io/badge/lang-Solidity-363636?logo=solidity) ![Token](https://img.shields.io/badge/type-ERC--20-blue)
-  Implémentation d'un standard de token fongible avec logique de déploiement et de minting.
 
 ---
 
 ## System & Kernel
 
-<!-- - [libasm](https://github.com/jecointr/libasm)-->
-  ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue)  
-  Reimplement basic C library functions in **Assembly (x86-64, Intel syntax)**.
+- [libasm](https://github.com/jecointr/libasm)
+  ![Assembly](https://img.shields.io/badge/lang-Assembly-6E4C13?logo=assembly) ![Library](https://img.shields.io/badge/type-Library-blue)
 - [malloc](https://github.com/jecointr/malloc)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Memory](https://img.shields.io/badge/type-Kernel-green)
 - [lem-ipc](https://github.com/jecointr/lem-ipc)
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![IPC](https://img.shields.io/badge/type-Concurrency-lightgrey)
 - [strace](https://github.com/jecointr/strace)
-- [ft_ping](https://github.com/jecointr/ft_ping)
-- [ft_traceroute](https://github.com/jecointr/ft_traceroute)
-
----
-
-## Graphics & Gaming
-
-
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![System](https://img.shields.io/badge/type-Syscalls-orange)
 
 ---
 
 ## Cryptography & Maths
 
 - [ready-set-boole](https://github.com/jecointr/ready-set-boole)
+  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Logic](https://img.shields.io/badge/type-Boolean--Logic-9cf)
 - [matrix](https://github.com/jecointr/matrix)
+  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Math](https://img.shields.io/badge/type-Linear--Algebra-blueviolet)
 - [ft_ss_md5](https://github.com/jecointr/ft-ssl-md5)
-- [ft_linear_regression](https://github.com/jecointr/ft_linear_regression)
-
----
-
-## Development
-
-
+  ![C](https://img.shields.io/badge/lang-C-A8B9CC?logo=c) ![Crypto](https://img.shields.io/badge/type-Hashing-black)
 
 ---
 
 ## Other
 
 - [UnleashTheBox](https://github.com/jecointr/unleash-the-box)
+  ![C++](https://img.shields.io/badge/lang-C++-00599C?logo=c%2B%2B) ![Tool](https://img.shields.io/badge/type-Utility-grey)
 
 ---
 
