@@ -52,6 +52,7 @@ Each project has its own repository and can be explored individually.
   ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![Streaming](https://img.shields.io/badge/type-Video--Streaming-red) (soon)
 - [music-room](https://github.com/jecointr/music-room)
   ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![Flutter](https://img.shields.io/badge/framework-Flutter-02569B?logo=flutter) (soon)
+- [red-tetris](https://github.com/jecointr/red-tetris) (soon)
 
 ---
 
