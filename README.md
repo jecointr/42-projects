@@ -5,6 +5,98 @@ Each project has its own repository and can be explored individually.
 
 > **Note:** Within each category, projects are listed roughly from the **simplest/quickest** to the **most complex/longest** to complete.
 
+<!--SOLO PROJECTS
+computorv1
+ft_linux
+ft_ls
+ft_select
+ft_script
+humangl
+libftpp
+scop
+42run
+in-the-shadows
+little-penguin-1
+process-and-memory
+h42n42
+computorv2
+swingy
+ft_ssl_des
+abstract-vm
+Learn2Slither
+B
+freddie-mercury
+ft_lex
+ft_ssl_rsa
+fix-me
+particle-system
+driver-and-interrupts
+ft_kalman
+tinky-winkey
+ft_yacc
+Abstract_data
+cc1
+
+TEAM PROJECTS
+42_Collaborative_resume
+ft_ality
+dslr
+darkly
+Ftl_quantum
+Peace_Break
+taskmaster
+expert-system
+n-puzzle
+nibbler
+krpsim
+rubik
+ft_turing
+snow-crash
+woody-woodpacker
+matt-daemon
+famine
+mod1
+lem_in
+boot2root
+pestilence
+guimp
+42sh
+doom-nukem
+Leaffliction
+shaderpixel
+ft_vox
+ft_shield
+kfs-9
+kfs-8
+ft_nmap
+swifty-proteins
+filesystem
+kfs-2
+kfs-1
+red-tetris
+xv
+Bgp At Doors of Autonomous System is Simple
+userspace_digressions
+ft_minecraft
+rt
+corewar
+ft_newton
+zappy
+kfs-6
+bomberman
+rainfall
+kfs-4
+Very_Real_Engine
+Open Project
+gbmu
+kfs-x
+war
+death
+override
+kfs-5
+kfs-3
+kfs-7
+-->
 ---
 
 ## Algo, AI & Data
