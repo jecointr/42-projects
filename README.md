@@ -36,6 +36,7 @@ tinky-winkey
 ft_yacc
 Abstract_data
 cc1
+ft_kalman
 
 TEAM PROJECTS
 42_Collaborative_resume
@@ -141,12 +142,12 @@ kfs-7
 - [matcha](https://github.com/jecointr/matcha)
   ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![React](https://img.shields.io/badge/framework-React-61DAFB?logo=react)
 - [hypertube](https://github.com/jecointr/hypertube)
-  ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![Streaming](https://img.shields.io/badge/type-Video--Streaming-red) (soon)
+  ![Node.js](https://img.shields.io/badge/lang-Node.js-339933?logo=nodedotjs) ![Streaming](https://img.shields.io/badge/type-Video--Streaming-red)
 - [music-room](https://github.com/jecointr/music-room)
-  ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![Flutter](https://img.shields.io/badge/framework-Flutter-02569B?logo=flutter) (soon)
-- [red-tetris](https://github.com/jecointr/red-tetris) (soon)
-- [ft_hangouts](https://github.com/jecointr/ft_hangout) (soon)
-- [swifty-companion](https://github.com/jecointr/swifty-companion) (soon)
+  ![TS](https://img.shields.io/badge/lang-TypeScript-3178C6?logo=typescript) ![Flutter](https://img.shields.io/badge/framework-Flutter-02569B?logo=flutter)
+- [red-tetris](https://github.com/jecointr/red-tetris)
+- [ft_hangouts](https://github.com/jecointr/ft_hangout)
+- [swifty-companion](https://github.com/jecointr/swifty-companion)
 
 ---
 
